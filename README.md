@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h1 align="center">Hola 👋, soy Joel Nicolás Meolans</h1>
+<h3 align="center">Estudiante de Ingenieria en Sistemas de la Universidad Tecnologica Nacional Facultad Regional Santa Fe, Argentina🌟.</h3>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Visualizaciones de perfil:-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
 
@@ -12,30 +12,24 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **adampithewan@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 🌱 Actualmente me encuentro cursando el ultimo año de la carrera de Ing en Sistemas de Informacion
+- 📫 Me desempeño como Asistente Tecnico en el Ministerio de Educacion de la Provincia de Santa Fe, Argentina
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://raw.githubusercontent.com/joemeolans/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
   <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      src="https://raw.githubusercontent.com/joemeolans/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      src="https://raw.githubusercontent.com/joemeolans/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="30" width="40" /></a>
  <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="https://raw.githubusercontent.com/joemeolans/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
@@ -85,7 +79,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Estadísticas :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
