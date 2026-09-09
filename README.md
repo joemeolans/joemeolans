@@ -81,6 +81,10 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=joemeolans&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" alt="joemeolans trophies" />
 
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joemeolans&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Actividad%20reciente" alt="joemeolans activity graph" width="95%"/>
+
 </div>
 
 <br>
