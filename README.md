@@ -87,7 +87,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/joemeolans/joemeolans/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/joemeolans/joemeolans/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
