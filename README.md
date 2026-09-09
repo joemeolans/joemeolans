@@ -83,7 +83,9 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joemeolans&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Actividad%20reciente" alt="joemeolans activity graph" width="95%"/>
+<a href="https://github.com/joemeolans" target="_blank">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joemeolans&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Actividad%20reciente" alt="joemeolans activity graph" width="95%"/>
+</a>
 
 </div>
 
@@ -91,7 +93,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/joemeolans/joemeolans/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<a href="https://github.com/joemeolans" target="_blank">
+  <img src="https://raw.githubusercontent.com/joemeolans/joemeolans/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</a>
 
 </div>
 
