@@ -1,99 +1,94 @@
-<h1 align="center">Hola 👋, soy Joel Nicolás Meolans</h1>
-<h3 align="center">Estudiante de Ingenieria en Sistemas de la Universidad Tecnologica Nacional Facultad Regional Santa Fe, Argentina🌟.</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Joel%20Nicol%C3%A1s%20Meolans&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingenier%C3%ADa%20en%20Sistemas%20%7C%20UTN%20FRSF&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Joel+%F0%9F%91%8B;Estudiante+de+Ing.+en+Sistemas+%F0%9F%8E%93;Asistente+T%C3%A9cnico+en+Educaci%C3%B3n+%F0%9F%92%BB;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br>
 
-<p align="right"> <h3>Visualizaciones de perfil:-</h3> <img src="https://komarev.com/ghpvc/?username=joemeolans&label=Profile%20views&color=0e75b6&style=flat"
-    alt="joemeolans" /> 
-  </p>
+<img src="https://komarev.com/ghpvc/?username=joemeolans&label=Visitas%20al%20perfil&color=1F6FEB&style=for-the-badge" alt="joemeolans" />
+<img src="https://img.shields.io/github/followers/joemeolans?label=Seguidores&style=for-the-badge&color=0D1117&labelColor=1F6FEB" alt="followers" />
+
+</div>
 
 <br>
 
-<p><img align="right" src="https://github.com/joemeolans/joemeolans/blob/main/animation_500_kxa883sd.gif" alt="joemeolans" /></p>
+<table align="center" width="100%">
+<tr>
+<td width="65%" valign="top">
 
+### 🧑‍💻 Sobre mí
 
-- 🌱 Actualmente me encuentro cursando el ultimo año de la carrera de Ing en Sistemas de Informacion
-- 📫 Me desempeño como Asistente Tecnico en el Ministerio de Educacion de la Provincia de Santa Fe, Argentina
+- 🌱 Actualmente cursando el **último año** de la carrera de **Ingeniería en Sistemas de Información** en la Universidad Tecnológica Nacional, Facultad Regional Santa Fe, Argentina.
+- 📫 Me desempeño como **Asistente Técnico** en el Ministerio de Educación de la Provincia de Santa Fe, Argentina.
+- 💡 Interesado en el desarrollo de software, bases de datos y buenas prácticas de programación.
+- ⚡ Siempre buscando aprender tecnologías nuevas y mejorar mis proyectos.
 
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/joel-meolans-26b440225/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="joel meolans" height="30" width="40" /></a>
-  <a href="https://instagram.com/joemeolanss" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="joemeolans" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/joemeolans" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="joemeolans" height="30" width="40" /></a>
- <a href="https://twitter.com/joemeolanss" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="joemeolans" height="30" width="40" /></a>
-</p>
+</td>
+<td width="35%" align="center">
+<img src="https://github.com/joemeolans/joemeolans/blob/main/animation_500_kxa883sd.gif" width="260" alt="joemeolans" />
+</td>
+</tr>
+</table>
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+<div align="center">
+
+### 🌐 Conectemos
+
+<a href="https://www.linkedin.com/in/joel-meolans-26b440225/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/joemeolanss" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF" alt="Instagram"/>
+</a>
+<a href="https://www.hackerrank.com/joemeolans" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=58A6FF" alt="HackerRank"/>
+</a>
+<a href="https://twitter.com/joemeolanss" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1F6FEB?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+
+</div>
 
 <br>
 
-<h3>Estadísticas :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=joemeolans&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="joemeolans" 
-    bg_color=#808080/></p>
+<div align="center">
+
+### 🛠️ Lenguajes y Tecnologías
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,react,nodejs,mysql,android,kotlin,py,sass,bootstrap,ai,ps&theme=dark" alt="tech stack" />
+
+</div>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joemeolans&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="joemeolans" /></p>
+<div align="center">
+
+### 📊 Estadísticas de GitHub
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=joemeolans&show_icons=true&locale=en&hide_title=false&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=1F6FEB" alt="joemeolans stats"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joemeolans&layout=compact&locale=en&hide_title=false&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=1F6FEB" alt="joemeolans top languages"/>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joemeolans&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="joemeolans" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=joemeolans&background=0D1117&border=1F6FEB&stroke=1F6FEB&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" alt="joemeolans streak" />
 
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=joemeolans&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" alt="joemeolans trophies" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%"/>
